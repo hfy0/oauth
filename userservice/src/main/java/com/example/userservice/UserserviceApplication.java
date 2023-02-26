@@ -4,7 +4,9 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 /**
- * 用户服务:模拟资源提供者（受保护资源服务器）
+ * 资源服务器（Resource Server）：能够提供第三方应用所需资源的服务器
+ * <p>
+ * 用户服务
  */
 @SpringBootApplication
 public class UserserviceApplication {
